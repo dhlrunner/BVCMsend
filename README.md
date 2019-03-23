@@ -12,17 +12,17 @@ https://www.picosystems.net/Joomla/index.php/13-japanese/products-ja/61-bvcm-mif
 
 ## 테스트 된 기기들 (Tested devices)
 
-NIPPON CONLUX(일본콘럭스) : NBX-1330-F,  NBX-6310K , CGX Series
+ * NIPPON CONLUX(일본콘럭스) : NBX-1330-F,  NBX-6310K , CGX Series
 
-FUJI Electrinocs : BVJ21SL4R
+ * FUJI Electrinocs : BVJ21SL4R
 
-ICT (Internetional Currency Technologies): LV77-S
+ * ICT (Internetional Currency Technologies): LV77-S
 
-LG electrinocs(LG전자) : LCS-431SMD
+ * LG electrinocs(LG전자) : LCS-431SMD
 
-Samsung Gwanju Electrinocs(삼성광주전자) : SBV121AS
+ * Samsung Gwanju Electrinocs(삼성광주전자) : SBV121AS
 
-Bokgwang Corporation(주식회사 복광) : KBV-222S
+ * Bokgwang Corporation(주식회사 복광) : KBV-222S
 
 ## Contect
  dhlrunner@gmail.com
