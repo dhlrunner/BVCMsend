@@ -1,5 +1,5 @@
 # BVCMsend
-A simple test program for BVCM_MIF_02 by Pico systems
+A simple test program for BVCM-MIF-02 by Pico systems
 
 BVCM-MIF-02 - JVMA,VCCS vending protocol development board by Pico Systems 
 https://www.picosystems.net/Joomla/index.php/13-japanese/products-ja/61-bvcm-mif-02-ja
